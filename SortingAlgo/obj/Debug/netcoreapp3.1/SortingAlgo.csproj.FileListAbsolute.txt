@@ -1,0 +1,13 @@
+D:\Projects\algo\C#\SortingAlgo\SortingAlgo\bin\Debug\netcoreapp3.1\SortingAlgo.exe
+D:\Projects\algo\C#\SortingAlgo\SortingAlgo\bin\Debug\netcoreapp3.1\SortingAlgo.deps.json
+D:\Projects\algo\C#\SortingAlgo\SortingAlgo\bin\Debug\netcoreapp3.1\SortingAlgo.runtimeconfig.json
+D:\Projects\algo\C#\SortingAlgo\SortingAlgo\bin\Debug\netcoreapp3.1\SortingAlgo.runtimeconfig.dev.json
+D:\Projects\algo\C#\SortingAlgo\SortingAlgo\bin\Debug\netcoreapp3.1\SortingAlgo.dll
+D:\Projects\algo\C#\SortingAlgo\SortingAlgo\bin\Debug\netcoreapp3.1\SortingAlgo.pdb
+D:\Projects\algo\C#\SortingAlgo\SortingAlgo\obj\Debug\netcoreapp3.1\SortingAlgo.csprojAssemblyReference.cache
+D:\Projects\algo\C#\SortingAlgo\SortingAlgo\obj\Debug\netcoreapp3.1\SortingAlgo.csproj.CoreCompileInputs.cache
+D:\Projects\algo\C#\SortingAlgo\SortingAlgo\obj\Debug\netcoreapp3.1\SortingAlgo.AssemblyInfoInputs.cache
+D:\Projects\algo\C#\SortingAlgo\SortingAlgo\obj\Debug\netcoreapp3.1\SortingAlgo.AssemblyInfo.cs
+D:\Projects\algo\C#\SortingAlgo\SortingAlgo\obj\Debug\netcoreapp3.1\SortingAlgo.dll
+D:\Projects\algo\C#\SortingAlgo\SortingAlgo\obj\Debug\netcoreapp3.1\SortingAlgo.pdb
+D:\Projects\algo\C#\SortingAlgo\SortingAlgo\obj\Debug\netcoreapp3.1\SortingAlgo.genruntimeconfig.cache
